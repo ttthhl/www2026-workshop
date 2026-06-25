@@ -1,0 +1,27 @@
+/* 隐藏左上角 site_name */
+.md-header-nav__title {
+    display: none !important;
+}
+
+.super-bold {
+    font-weight: 900 !important;
+    font-size: 0.85em !important;
+}
+
+.super-bold2 {
+    font-weight: 900 !important;
+    font-size: 0.7em !important;   /* 小号字体 */
+    color: #777 !important;         /* 浅灰色（比 #999 更清晰） */
+    letter-spacing: 0.5px;          /* 更精致一点 */
+}
+
+.super-bold3 {
+    font-weight: 600 !important;
+    font-size: 0.6em !important;   /* 小号字体 */
+    color: #777 !important;         /* 浅灰色（比 #999 更清晰） */
+    letter-spacing: 0.5px;          /* 更精致一点 */
+}
+
+
+
+
